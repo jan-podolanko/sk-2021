@@ -47,9 +47,9 @@
 
 | Parametr | wartość           | komentarzu |
 | ------------- |:-------------:| -----:|
-| Adres IP      |         |  |
-| Maska podsieci|  |     |
-| Brama         |         |  |
+| Adres IP      |10.0.2.15         |  |
+| Maska podsieci|/24  |     |
+| Brama         |10.0.2.2         |  |
 | DNS 1         |       |      |
 | DNS 2         |          |    |
 
